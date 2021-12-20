@@ -18,6 +18,6 @@ list-group
 簡單說明如何紀錄程式碼版本
  - `git init`                         initialize git
  - `git add <filename>`               move unstagged file to Staging Area
- -`git commit -m '<message>'`        commit a version
+ - `git commit -m '<message>'`        commit a version
  - `git remote add origin <link>`     add a Remote Repository link
  - `git push origin <branch name>`    push local commit record to Remote Repository
